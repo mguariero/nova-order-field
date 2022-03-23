@@ -53,7 +53,7 @@ export default {
       return this.$parent.resource.id.value;
     },
     parentList() {
-      return this.$parent.$parent.$parent.$parent.$parent.$parent;
+      return this.$parent.$parent.$parent.$parent.$parent.$parent.$parent;
     }
   },
   methods: {
